@@ -1,6 +1,4 @@
 #*Hello_world*
 ===========
 
-##First time on github.
-
-##Another test.
+##return to git
